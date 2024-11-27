@@ -23,7 +23,7 @@
 ## TODO
 
 - Add Android launchers
-- Add untrustable launchers
-- More common clients
+- Add untrustable launchers category
+- More common launchers
 - Make a better readme
-- More details for specific clients
+- More details for specific launchers
