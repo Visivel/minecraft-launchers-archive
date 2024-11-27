@@ -2,7 +2,7 @@
 ## Premium only launchers
 
 | Launchers | Open source | Link | Description |
-| --- | --- | ---| | --- |
+| --- | --- | --- | --- |
 | MultiMC | ✅ Yes | [Github link](https://github.com/MultiMC/Launcher/releases/tag/0.6.14)/[Website](https://multimc.org/#Download) | Classic multi-instance launcher. |
 | Prism Launcher | ✅ Yes | [Github link](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.1)/[Website](https://prismlauncher.org/download/windows/) | Fork from MultiMC, with more features and support, also a continuation of PolyMC. |
 | PolyMC | ✅ Yes | [Github Link](https://prismlauncher.org/download/windows/)/[Website](https://polymc.org/download/) | Fork from MultiMC, had a [controversy](https://www.reddit.com/r/PolyMCLauncher/comments/yq4prr/so_i_whats_up_with_the_controversy_around_polypc/) in the past, but trustable.
