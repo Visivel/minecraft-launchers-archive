@@ -35,6 +35,7 @@
 | Battly Launcher | ✅ Yes | [Github link](https://github.com/1ly4s0/battlylauncher)/[Website](https://battlylauncher.com) | Seems a clean and safe launcher with no virus overall, good ToS page, well made and configurable | ❌ No |
 | Tlauncher | ❌ No | [Website](https://tlauncher.org/en/) | Famous Russian launcher, **NOT** trustable due its [acusations](https://pastebin.com/cs3WanEi) of spyware | ✅ Yes |
 | Heep Client | ❌ No | [Website](https://www.heephclient.com) | Requires to join their Discord, 1.8 only, no mods compability, launcher only has login and launch, not recommended. | ❌ No |
+| Mcpelauncher | ✅ Yes | [Githuh link](https://github.com/minecraft-linux/mcpelauncher-manifest)/[Website](https://minecraft-linux.github.io/) | Looks safe and useful, unfortunately i don't use Linux so i cannot verify this launcher atm | ❌ No |
 
 ## TODO
 
