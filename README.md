@@ -27,7 +27,7 @@
 | Fold Craft Launcher | Android | ✅ Yes | [Github link](https://github.com/FCL-Team/FoldCraftLauncher/releases/tag/1.1.9)/[Website](https://fcl-team.github.io/pages/download.html) | Well configurable, trustable, good reputation, a good alternative for Pojav. |
 | HMCL-PE / Hello Minecraft! | Android | ✅ Yes |  [Github link](https://github.com/HMCL-dev/HMCL-PE) | Pretty configurable, trustable and safe, easy to download mods. |
 | Battly Launcher | Android | ❌ No | [Playstore](https://play.google.com/store/apps/details?id=com.tecnobros.battlylauncher) | The launcher seems trustable since the pc version is, also its on Playstore, more details in [Unverified section](#unverified--untrusted-launchers), same creators, different platforms. |
-| Zalith Launcher | Android | ✅ Yes | [Github](https://github.com/ZalithLauncher/ZalithLauncher/releases/tag/140302)/[Website](https://zalithlauncher.com/download/] | Chinese (?) Pojav fork, works well, has all Pojav features and you can finally manage folders with more ease. |
+| Zalith Launcher | Android | ✅ Yes | [Github](https://github.com/ZalithLauncher/ZalithLauncher/releases/tag/140302)/[Website](https://zalithlauncher.com/download/) | Chinese (?) Pojav fork, works well, has all Pojav features and you can finally manage folders with more ease. |
 
 
 ## Unverified / Untrusted launchers
