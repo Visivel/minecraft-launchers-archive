@@ -14,6 +14,7 @@ The purpose of this repo is to archive Minecraft launchers at all. Launchers tha
 | Atlauncher | ❌ No | [Website](https://atlauncher.com/downloads) | Trustable, good reputation, same features as Prism but with a better UI |
 | Lunar client | ❌ No | [Website](https://www.lunarclient.com/download) | Trustable, good reputation, good UI, comes with a preset client. |
 | Modrinth Launcher | ✅ Yes | [Website](https://modrinth.com/app) | Totally trustable, good reputation, can download mods, modpacks and more directly on the Launcher, allow Cracked once a Premium account is added. |
+| Shard Launcher | ✅ Yes | [Github link](https://github.com/Th0rgal/shard)/[Website](https://shard.thomas.md) | Open-source launcher with declarative profiles, content-addressed storage, and Modrinth/CurseForge integration. Built with Rust and Tauri. |
 
 ## Cracked launchers
 
