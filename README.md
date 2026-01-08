@@ -11,10 +11,11 @@ The purpose of this repo is to archive Minecraft launchers at all. Launchers tha
 | PolyMC | ✅ Yes | [Github link](https://prismlauncher.org/download/windows/)/[Website](https://polymc.org/download/) | Fork from MultiMC, had a [controversy](https://www.reddit.com/r/PolyMCLauncher/comments/yq4prr/so_i_whats_up_with_the_controversy_around_polypc/) in the past, but trustable.
 | Hysky | ✅ Yes | [Github link](https://github.com/HyskyClient/HySky-Client-Launcher/releases/tag/v2.0.0) | Well configurable for 1.8 servers, kinda buggy in some devices. (Chinese...?) |
 | Celestial | ✅ Yes | [Github link](https://github.com/CubeWhyMC/celestial/releases/tag/v2.8.1)/[Website (caution)](https://lunarclient.top) | 1.8 launcher with a not very welcome UI, also Chinese. |
-| Atlauncher | ❌ No | [Website](https://atlauncher.com/downloads) | Trustable, good reputation, same features as Prism but with a better UI |
+| ATLauncher | ✅ Yes | [Github link](https://github.com/ATLauncher/ATLauncher)/[Website](https://atlauncher.com/downloads) | Trustable, good reputation, same features as Prism but with a better UI |
 | Lunar client | ❌ No | [Website](https://www.lunarclient.com/download) | Trustable, good reputation, good UI, comes with a preset client. |
 | Modrinth Launcher | ✅ Yes | [Website](https://modrinth.com/app) | Totally trustable, good reputation, can download mods, modpacks and more directly on the Launcher, allow Cracked once a Premium account is added. |
 | Shard Launcher | ✅ Yes | [Github link](https://github.com/Th0rgal/shard)/[Website](https://shard.thomas.md) | Open-source launcher with declarative profiles, content-addressed storage, and Modrinth/CurseForge integration. Built with Rust and Tauri. |
+| olauncher | ✅ Yes | [Github link](https://github.com/olauncher/olauncher)/[Maintained fork](https://github.com/RagedMeteor1837/OLauncher)| Old Minecraft Launcher but continued |
 
 ## Cracked launchers
 
