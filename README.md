@@ -21,6 +21,7 @@ The purpose of this repo is to archive Minecraft launchers at all. Launchers tha
 
 | Launchers | Open source | Link | Description |
 | --- | --- | --- | --- |
+| Prism Launcher Cracked | ✅ Yes | [Github link](https://github.com/Diegiwg/PrismLauncher-Cracked) | Best option, its basically Prism Launcher with all features but for cracked users. |
 | X Minecraft Launcher | ✅ Yes | [Github link](https://github.com/Voxelum/x-minecraft-launcher/releases/tag/v0.47.13) | Well configurable, trustable, welcoming UI, lot of features. |
 | Vortex Launcher | ✅ Yes | [Github link](https://github.com/Kron4ek/minecraft-vortex-launcher/releases) | Stupidly optimized, slow downloads but awesome for potato computers. |
 | Sklauncher | ❌ No | [Website](https://skmedix.pl/downloads) | Good reputation, works fine, miss some features tho. |
