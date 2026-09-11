@@ -28,6 +28,7 @@ The purpose of this repo is to archive Minecraft launchers at all. Launchers tha
 | UltimMC | ✅ Yes | [Github link](https://github.com/UltimMC/Launcher) | MultiMC but cracked :p |
 | Quantum Launcher | ✅ Yes | [Github link](https://github.com/Mrmayman/quantumlauncher) | Fast launcher, well configurable launcher but lack of configurations on the game itself, good for potato computers too. |
 | TL Legacy | :x: No | [Website](https://llaun.ch) | Trustable, original Launcher that 'inspired' Tlauncher, includes a good configuration, a good Launcher overall. |
+| AstroLauncher | ✅ Yes | [Github link](https://github.com/kauafpssx/AstroLauncher) | Powerful and optimized Brazilian launcher with unique features like a local seed map, ZeroTier integration, skin downloads, and all the essential features of other launchers. |
 
 ## Mobile launchers
 
