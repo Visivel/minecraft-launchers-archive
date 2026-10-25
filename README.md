@@ -29,6 +29,7 @@ The purpose of this repo is to archive Minecraft launchers at all. Launchers tha
 | Quantum Launcher | ✅ Yes | [Github link](https://github.com/Mrmayman/quantumlauncher) | Fast launcher, well configurable launcher but lack of configurations on the game itself, good for potato computers too. |
 | TL Legacy | :x: No | [Website](https://llaun.ch) | Trustable, original Launcher that 'inspired' Tlauncher, includes a good configuration, a good Launcher overall. |
 | AstroLauncher | ✅ Yes | [Github link](https://github.com/kauafpssx/AstroLauncher) | Powerful and optimized Brazilian launcher with unique features like a local seed map, ZeroTier integration, skin downloads, and all the essential features of other launchers. |
+| MCLQE Launcher | ✅ Yes | [Github link](https://github.com/yezi-fak/MCLQE)/[Release](https://github.com/yezi-fak/MCLQE/releases/tag/v1.0.0) | Chinese Java 21 + JavaFX launcher: version manifest parsing, multi-threaded download, Java runtime detection, Microsoft login and offline accounts, Modrinth mod search, Fabric/Quilt/Forge/NeoForge installers. |
 
 ## Mobile launchers
 
