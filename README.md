@@ -52,6 +52,7 @@ The purpose of this repo is to archive Minecraft launchers at all. Launchers tha
 | Mcpelauncher | ✅ Yes | [Githuh link](https://github.com/minecraft-linux/mcpelauncher-manifest)/[Website](https://minecraft-linux.github.io/) | Looks safe and useful, unfortunately i don't use Linux so i cannot verify this launcher atm | ❌ No |
 | Collapse Loader | ✅ Yes | [Website](https://collapseloader.org)/[Github link](https://github.com/dest4590/CollapseLoader) | **LAUNCHER FOR HACKED CLIENTS**, seems trustable, good and contains checks for virus | :x: No |
 | Glowsquid | ✅ Yes | [Github link](https://github.com/glowsquid-launcher/glowsquid) | Seems more compatible with NixOS (Linux), but requires you to build the Launcher first, no pre-built binaries. | :x: No |
+| CTF Launcher | ❌ No | [Website](https://home.ctf.mom/?lang=en)/[Download](https://launcher.ctf.mom/) | Windows and Linux Java launcher with separate instances, DNA links for sharing exact modpack versions and selected configs, and optional AI assistance. Free with optional Premium. Microsoft and offline profiles supported. | ❌ No |
 
 ## TODO
 
